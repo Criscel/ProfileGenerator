@@ -1,5 +1,6 @@
 const inquirer = require("inquirer");
-const fs = recquire("fs");
+const fs = require("fs");
+const path = require("path");
 
 const Manager = require("./positions/manager")
 const Intern = require("./positions/intern")
@@ -30,6 +31,7 @@ function createTeam(){
               "Manager",
             "Engineer",
             "Intern",
+            "Done Adding Members"
           ]
         }
       ]).then(userChoice => {

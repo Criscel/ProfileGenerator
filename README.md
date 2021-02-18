@@ -16,4 +16,4 @@ I have created an "output" folder so that it will be easier for me to look for t
 
 ![Output_Interface](Assets/output.PNG)
 
-[![Walkthrough Video](https://img.youtube.com/vi/oDjVLR1kSV0/4.jpg)](https://www.youtube.com/watch?v=oDjVLR1kSV0&feature=youtu.be)
+[![Walkthrough Video](Assets/Team_Profile_Generator_walkthrough.gif)](https://www.youtube.com/watch?v=oDjVLR1kSV0&feature=youtu.be)

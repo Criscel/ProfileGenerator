@@ -12,8 +12,8 @@ I also created render.js which focus on pulling the data from node.js and pushin
 I have created an "output" folder so that it will be easier for me to look for the rendered html and called the file "myteam.html".
 
 ## Usage
-[Team_Profile_Generator]https://github.com/Criscel/ProfileGenerator
+[Team_Profile_Generator](https://github.com/Criscel/ProfileGenerator)
+
 ![Output_Interface](Assets/output.PNG)
 
-[![Walkthrough Video](https://img.youtube.com/vi/oDjVLR1kSV0/0.jpg)](https://www.youtube.com/watch?v=oDjVLR1kSV0&feature=youtu.be)
-
+[![Walkthrough Video](https://img.youtube.com/vi/oDjVLR1kSV0/4.jpg)](https://www.youtube.com/watch?v=oDjVLR1kSV0&feature=youtu.be)

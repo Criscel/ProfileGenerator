@@ -11,14 +11,52 @@
 
     <title>Team Profile Generator</title>
 </head>
+<style>
 
+#team {
+    background-color: rgb(231, 78, 78);
+    padding: 5%;
+    color: white;
+    text-align: center;
+    align-content: center;
+    margin-top: 10px;
+}
+h2 {
+    margin-left: 40%;
+}
+#member {
+    align-content: center;
+    margin-top: 20px;
+}
+#details {
+    width: 40px;  
+}
+#card {
+    background: rgb(2, 129, 248);
+    color: white;
+}
+#info {
+    background: rgba(197, 195, 195, 0.897);
+    padding: 10px;
+    font-size: 10px;
+}
+
+</style>
 <body>
     <div class="container" id="team">
         <div class="row">
             <h2>My Team</h2>
         </div>
     </div>
+    <div class="container">
+        <div class="row" id="member">
+        {{ myteam }}
 
+        </div>
+    </div>
+
+    <!--
+    Hard-coded used for testing
     <div class="row" id="member">
         <div class="col-4" id="details">
             <div class="card-body" id="card">
@@ -35,7 +73,7 @@
             </div>
         </div>
     </div>
-
+-->
 
 </body>
 

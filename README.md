@@ -8,4 +8,6 @@ This application is build with Node.js.
 
 ## Usage
 
+[Output_Interface](Assets/output.PNG);
+
 ## Credits
